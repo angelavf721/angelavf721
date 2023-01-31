@@ -6,9 +6,10 @@
 
 <div>
 <a href="https://github.com/angelavf721">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelavf721&show_icons=true&theme=radical">
-<img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelavf721&layout=compact">
+<img  src="https://github-readme-stats.vercel.app/api?username=angelavf721&show_icons=true&theme=radical">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelavf721&layout=compact">
 </div>
+ 
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
