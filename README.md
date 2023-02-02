@@ -22,5 +22,4 @@
 <a href ="https://angelavasconcelos780@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/ângela-feitosa-de-vasconcelos-104879206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- 
- ![Snake animatin](https://github.com/angelavf721/angelavf721/blob/091503adcb9ef934412c6550af377a1407449633/.github/workflows/main.yml)
+
